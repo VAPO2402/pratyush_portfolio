@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 40px;
+    padding-bottom: 15px;
+    font-family: creg;
+    font-size: 18px;
+    background: transparent;
+    color: var(--fyellow);
+    overflow: hidden;
+}
+
+.header .logo img{
+    height: 60px;
+    width: 240px;
+}
+
+nav{
+    width: 15%;
+    margin-right: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 800;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    gap: 50px;
+    margin-top: -0.6rem;
+    list-style: none;
+}
+
+.hpro, .hcon{
+    color: var(--fyellow);
+}

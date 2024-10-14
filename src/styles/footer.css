@@ -1,0 +1,60 @@
+.footer{
+    overflow: hidden;
+    background: var(--fblack);
+    height: 50vh;
+    width: 100vw;
+    color: var(--fyellow);
+    font-family: cexli;
+    padding: 30px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer .reachout{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 3rem;
+}
+
+.reachout h1{
+    font-size: 150px;
+    font-family: sbold;
+    text-transform: uppercase;
+}
+
+.reachout p{
+    margin-bottom: 2.5rem;
+    margin-left: -10px;
+}
+
+.reachout p a{
+    color: var(--fyellow);
+    text-decoration: none;
+}
+
+.footer .end{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-transform: uppercase;
+}
+
+.end p{
+    word-spacing: 3px;
+}
+
+.end .cfbut{
+    padding: 10px 20px;
+    background: var(--fblack);
+    outline: none;
+    font-size: 15px;
+    border: 2px solid var(--fyellow);
+    border-radius: 50px;
+}
+
+.end .cflink{
+    text-decoration: none;
+    color: var(--fyellow);
+}

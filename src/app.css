@@ -1,0 +1,14 @@
+@import "./styles/font.css";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+:root{
+    --fyellow: #ffd600;
+    --fblack: #101010;
+}

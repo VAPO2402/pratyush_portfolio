@@ -1,0 +1,24 @@
+@font-face {
+    font-family: sbold;
+    src: url(../assets/fonts/sato/sbold.otf);
+}
+
+@font-face {
+    font-family: sblack;
+    src: url(../assets/fonts/sato/sblack.otf);
+}
+
+@font-face {
+    font-family: cexli;
+    src: url(../assets/fonts/clash/cexli.otf);
+}
+
+@font-face {
+    font-family: creg;
+    src: url(../assets/fonts/clash/creg.otf);
+}
+
+@font-face {
+    font-family: cbold;
+    src: url(../assets/fonts/clash/cbold.otf);
+}
